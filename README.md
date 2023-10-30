@@ -4,6 +4,9 @@
 
 In June 2022, as part of our second-year cycle class preparatory projects, we embarked on a project to enrich our web programming skills. The result of this endeavor is the dynamic and interactive social networking website named "tlkr."
 
+![tlkr-logo-col](https://github.com/maghwa/tlkr-social-network/assets/87017143/4285b8d3-ceb3-4556-bdb0-1640f8c035dc)
+
+
 ## Project Overview
 
 "tlkr" was born as a web-based social networking site, aiming to provide real-time interaction within a community of internet users. 
