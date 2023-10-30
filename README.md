@@ -2,11 +2,11 @@
 
 ## Project Context
 
-In June 2022, as part of our second-year cycle class preparatory projects, we embarked on a project to enrich our web programming skills. The result of this endeavor is the dynamic and interactive social networking website named "Tlkr."
+In June 2022, as part of our second-year cycle class preparatory projects, we embarked on a project to enrich our web programming skills. The result of this endeavor is the dynamic and interactive social networking website named "tlkr."
 
 ## Project Overview
 
-"Tlkr" was born as a web-based social networking site, aiming to provide real-time interaction within a community of internet users. 
+"tlkr" was born as a web-based social networking site, aiming to provide real-time interaction within a community of internet users. 
 
 ### Project Features
 
@@ -30,7 +30,7 @@ This section covers the development stages of the site, provides information abo
 
 ##### Languages & Frameworks
 
-To bring Tlkr to life, we utilized a range of languages and frameworks for both the frontend and backend:
+To bring tlkr to life, we utilized a range of languages and frameworks for both the frontend and backend:
 
 **Frontend**:
 
@@ -46,9 +46,9 @@ To bring Tlkr to life, we utilized a range of languages and frameworks for both 
 Firebase was the ideal choice for managing the database, user authentication, and various other aspects of Talker. It is particularly well-suited for real-time interactive web applications.
 
 ### Responsive Design
-Tlkr boasts a responsive design, ensuring that the site is accessible and user-friendly across a wide range of devices, from desktop computers to smartphones and tablets. The responsive layout adapts to different screen sizes, providing an optimal viewing experience for all users.
+tlkr boasts a responsive design, ensuring that the site is accessible and user-friendly across a wide range of devices, from desktop computers to smartphones and tablets. The responsive layout adapts to different screen sizes, providing an optimal viewing experience for all users.
 
-### Access Tlkr
+### Access tlkr
 
 You can experience Talker by visiting the following link: [Talker (tlkr3-ce38e.web.app)](https://tlkr3-ce38e.web.app)
 
