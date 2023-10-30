@@ -1,5 +1,4 @@
-# Project Name: Talker - Project Presentation
-
+# tlkr 
 ## Project Context
 
 In June 2022, as part of our second-year cycle class preparatory projects, we embarked on a project to enrich our web programming skills. The result of this endeavor is the dynamic and interactive social networking website named "tlkr."
