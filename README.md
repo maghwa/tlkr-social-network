@@ -46,7 +46,7 @@ To bring Tlkr to life, we utilized a range of languages and frameworks for both 
 Firebase was the ideal choice for managing the database, user authentication, and various other aspects of Talker. It is particularly well-suited for real-time interactive web applications.
 
 ### Responsive Design
-Talker boasts a responsive design, ensuring that the site is accessible and user-friendly across a wide range of devices, from desktop computers to smartphones and tablets. The responsive layout adapts to different screen sizes, providing an optimal viewing experience for all users.
+Tlkr boasts a responsive design, ensuring that the site is accessible and user-friendly across a wide range of devices, from desktop computers to smartphones and tablets. The responsive layout adapts to different screen sizes, providing an optimal viewing experience for all users.
 
 ### Access Tlkr
 
